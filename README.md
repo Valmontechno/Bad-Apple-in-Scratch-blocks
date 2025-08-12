@@ -1,13 +1,15 @@
-# Bad-Apple-in-Scratch-blocks
+# Bad Apple but in Scratch blocks
 
-Bad Apple, but in the [Scratch](https://scratch.mit.edu/projects/1205532741/) block editor!
+[Scratch](https://scratch.mit.edu/projects/1205532741/) is a high-level, block-based visual programming language.
+This project displays the [Bad Apple](https://youtu.be/FtutLA63Cp8) video not with scratch language but in the scratch code editor.
 
 <img height="300" src="https://github.com/user-attachments/assets/27ac9814-4197-4a1c-8532-291447202681" />
 
 ### Instructions
 
-This project doesn't work well on the Scratch website. Run it with TuboWarp, which is an optimized version.
-https://turbowarp.org/1205532741/editor <br>
+This project cannot be run directly with Scratch, but with TurboWarp which is an optimized version. <br>
+https://turbowarp.org/1205532741/editor
+
 Maximise the code editor with the button above the scene and zoom out the view as far as possible. Press space to start.
 
 For better rendering, switch the editor to dark mode and set the block color to black in the [addon settings](https://turbowarp.org/addons#editor-theme3).
