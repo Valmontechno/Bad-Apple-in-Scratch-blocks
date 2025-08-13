@@ -3,7 +3,7 @@
 [Scratch](https://scratch.mit.edu/projects/1205532741/) is a high-level, block-based visual programming language.
 This project displays the [Bad Apple](https://youtu.be/FtutLA63Cp8) video not with scratch language but in the scratch code editor.
 
-[See on Youtube](https://youtu.be/KCCTLRk-BLc)
+[See on Youtube](https://youtu.be/itOdqbtWkas)
 
 <img height="300" src="https://github.com/user-attachments/assets/27ac9814-4197-4a1c-8532-291447202681" />
 
